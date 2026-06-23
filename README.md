@@ -1,4 +1,3 @@
-````markdown
 ## 📊 Diagrama As-Is
 
 ```mermaid
@@ -42,7 +41,4 @@ flowchart LR
     classDef endpoint_safe fill:#D6EAF8,stroke:#1A5C9A,stroke-width:2px,color:#154360
     classDef endpoint_monitor fill:#D5F5E3,stroke:#239B56,stroke-width:2px,color:#145A32
     classDef endpoint_vuln fill:#FADBD8,stroke:#C0392B,stroke-width:3px,color:#922B21
-````
-
-```
 ```
